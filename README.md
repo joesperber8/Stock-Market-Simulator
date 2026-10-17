@@ -1,2 +1,2 @@
 # Stock-Market-Simulator
-A Python desktop application modeling stock price dynamics, market volatility, dividends, and news events with interactive Matplotlib charting
+A Python desktop application that models stock price dynamics, market volatility, dividends, and news events with interactive Matplotlib charts. A 1,500-line desktop application built using Python (Tkinter and Matplotlib). It models share-price movements, market volatility, and macroeconomic news shocks, featuring interactive charting and functional mechanisms for dividends, savings interest, and borrowing.
